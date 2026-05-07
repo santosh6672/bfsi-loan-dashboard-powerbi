@@ -121,27 +121,3 @@ Analyze customers based on:
 ![Loan Details](Bank_Loan_Report_Details.png)
 
 ---
-
-# Project Files
-
-- `Bank loan report summary.pbix` → Main Power BI Dashboard File
-- `README.md` → Project Documentation
-- `Bank_Loan_Report_Summary.png` → Dashboard Summary Screenshot
-- `Bank_Loan_Report_Overview.png` → Dashboard Overview Screenshot
-- `Bank_Loan_Report_Details.png` → Dashboard Details Screenshot
-
----
-
-# Skills Demonstrated
-
-- Business Intelligence Reporting
-- BFSI Analytics
-- Data Visualization
-- KPI Monitoring
-- SQL Querying
-- DAX Calculations
-- Data Cleaning & Transformation
-- Analytical Thinking
-
----
-
