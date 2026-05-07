@@ -40,5 +40,21 @@ Provides a deep dive into borrower profiles to evaluate creditworthiness and dem
 * **Risk Identification:** Quickly isolates high-performing markets and flags high-risk geographic areas for targeted intervention.
 
 ---
+# Dashboard Screenshots
+
+## Loan Report Summary
+![Loan Summary](Bank_Loan_Report_Summary.png)
+
+---
+
+## Loan Report Overview
+![Loan Overview](Bank_Loan_Report_Overview.png)
+
+---
+
+## Loan Report Details
+![Loan Details](Bank_Loan_Report_Details.png)
+
+---
 
 *Note: The dataset used for this project has been anonymized and is for demonstration purposes only.*
