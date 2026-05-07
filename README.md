@@ -7,17 +7,6 @@ The solution helps stakeholders make data-driven decisions by identifying lendin
 
 ---
 
-# Objective
-The primary objective of this project is to build a dynamic reporting dashboard that enables banks and financial institutions to:
-
-- Monitor loan disbursals and repayments
-- Analyze borrower demographics and loan purposes
-- Track lending performance using KPIs
-- Identify high-risk loan segments
-- Improve business decision-making through interactive visualizations
-
----
-
 # Key Performance Indicators (KPIs)
 
 The dashboard tracks the following business metrics:
@@ -35,53 +24,31 @@ The dashboard tracks the following business metrics:
 
 # Dashboard Features
 
-## Loan Performance Analysis
+Loan Performance Analysis
 - Track loan disbursement and repayment trends
 - Analyze approved vs rejected loans
 - Monitor funded amounts across multiple periods
 
-## Customer Segmentation
+Customer Segmentation
 Analyze customers based on:
 - Home Ownership
 - Income Category
 - Loan Purpose
 - Employment Length
 
-## Regional Analysis
+Regional Analysis
 - Compare loan performance across regions and states
 - Identify high-performing and high-risk areas
 
-## Financial Risk Monitoring
+Financial Risk Monitoring
 - Analyze borrower DTI ratios
 - Monitor interest rate trends
 - Identify risky lending patterns
 
-## Interactive Reporting
+Interactive Reporting
 - Dynamic filters and slicers
 - Drill-down analysis
 - Interactive KPI visualizations
-
----
-
-# Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| Power BI | Dashboard Development & Visualization |
-| SQL | Data Extraction & Validation |
-| DAX | KPI Calculations & Measures |
-| Power Query | Data Cleaning & Transformation |
-
----
-
-# Project Workflow
-
-1. Data Collection & Validation  
-2. Data Cleaning using Power Query  
-3. Data Modeling in Power BI  
-4. KPI Creation using DAX  
-5. Dashboard Development  
-6. Business Insight Generation  
 
 ---
 
